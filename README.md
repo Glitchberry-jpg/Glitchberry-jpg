@@ -1,1 +1,3 @@
-https://github.com/Glitchberry-jpg/Mortis/raw/40fd86ba295e93ca727aa6bfdd9a08fd445af85c/d63468c0aa63a112827536b5f35c6d32.jpg
+<p align="center">
+  <img src="https://github.com/Glitchberry-jpg/Mortis/raw/40fd86ba295e93ca727aa6bfdd9a08fd445af85c6d32.jpg" alt="Mi imagen">
+</p>
